@@ -11,10 +11,10 @@
 ## 💻 O que tem no projeto?
 
 * Front-end bem clean, desenvolvido seguindo o proposto no [Figma](https://www.figma.com/file/VeoKCEMa7nieN0FRg9N7iA/GitHub-Blog-(Community)?node-id=0%3A1&t=eUL0CsokLA7yBp5h-0).
-* Integração com o Prismic CMS, para trabalhar com toda a parte do sistema do blog.
-* Integração com o sistema de Preview do Prismic, onde é possível ver um post não publicado dentro do blog, antes mesmo dele ir ao ar.
-* Uso do sistema estático do Next.js, onde os posts são mantidos no cache para um melhor carregamento.
-* Sistema de comentários usando o Utteranc.
+* Integração com a API do github para prover o conteudo do blog.
+* Na opção de busca por um determinado blog ou termo contido no titulo do blog foi utilizado o React Hook Form juntamente com a biblioteca Zod para verificação 
+* do conteudo.
+* Na estilização da aplicação foi escolhido o styled component devido a sua facilidade em sua sintaxe e por deixar o código mais clean e performatico possivel. 
 
 &nbsp;
 
