@@ -10,7 +10,7 @@
 
 ## 💻 O que tem no projeto?
 
-* Front-end bem clean, desenvolvido seguindo o proposto no [Figma](https://www.figma.com/file/0Y26j0tf1K2WB5c1ja5hov/Desafios-M%C3%B3dulo-3-ReactJS?node-id=0%3A1).
+* Front-end bem clean, desenvolvido seguindo o proposto no [Figma](https://www.figma.com/file/VeoKCEMa7nieN0FRg9N7iA/GitHub-Blog-(Community)?node-id=0%3A1&t=eUL0CsokLA7yBp5h-0).
 * Integração com o Prismic CMS, para trabalhar com toda a parte do sistema do blog.
 * Integração com o sistema de Preview do Prismic, onde é possível ver um post não publicado dentro do blog, antes mesmo dele ir ao ar.
 * Uso do sistema estático do Next.js, onde os posts são mantidos no cache para um melhor carregamento.
@@ -62,13 +62,13 @@ $ yarn start
 ### 🔗 Link para o projeto online
 
 
-[GitHub Blog](githubblog-omega.vercel.app/)
+[GitHub Blog](https://githubblog-omega.vercel.app/)
 
 &nbsp;
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo de [LICENÇA](https://github.com/GBDev13/space-traveling/blob/master/LICENSE) para detalhes.
+Este projeto está licenciado sob a Licença MIT.
 
 
 ---
