@@ -31,8 +31,6 @@
 
 &nbsp;
 
-<img src="https://github.com/antonioalexandre1984/GithubBlog/blob/main/public/imagesApp/2022-11-28_19-02-09_AdobeExpress.gif" width="100%" />
-
 &nbsp;
 
 ## ⚙️ Instalação
