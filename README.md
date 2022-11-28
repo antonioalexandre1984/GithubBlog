@@ -18,7 +18,7 @@
 
 &nbsp;
 
-![mock2](https://www.figma.com/file/VeoKCEMa7nieN0FRg9N7iA/GitHub-Blog-(Community)?node-id=0%3A1&t=eUL0CsokLA7yBp5h-0)
+![mock2](https://github.com/antonioalexandre1984/GithubBlog/blob/main/public/imagesApp/blog3.jpg)
 
 &nbsp;
 
@@ -74,5 +74,6 @@ Este projeto está licenciado sob a Licença MIT.
 ---
 
 <p align="center">Feito com 💙 por Antonio Alexandre</p>
+<p align="center">Contato email: antonioalexandre1984@gmail.com</p>
 
 
