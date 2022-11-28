@@ -24,10 +24,10 @@
 
 ## 🛠️ Tecnologias/Ferramentas ultilizadas
 
-* [React](https://pt-br.reactjs.org/E)
-*[React-Hook-Form](https://react-hook-form.com/)
-*[Styled-Components](https://styled-components.com/)
-*[Zod](https://www.npmjs.com/package/zod)
+# * [React](https://pt-br.reactjs.org/E),
+# *[React-Hook-Form](https://react-hook-form.com/),
+# *[Styled-Components](https://styled-components.com/),
+# *[Zod](https://www.npmjs.com/package/zod)
 
 &nbsp;
 
