@@ -12,8 +12,7 @@
 
 * Front-end bem clean, desenvolvido seguindo o proposto no [Figma](https://www.figma.com/file/VeoKCEMa7nieN0FRg9N7iA/GitHub-Blog-(Community)?node-id=0%3A1&t=eUL0CsokLA7yBp5h-0).
 * Integração com a API do github para prover o conteudo do blog.
-* Na opção de busca por um determinado blog ou termo contido no titulo do blog foi utilizado o React Hook Form juntamente com a biblioteca Zod para verificação 
-* do conteudo.
+* Na opção de busca por um determinado blog ou termo contido no titulo do blog foi utilizado o React Hook Form juntamente com a biblioteca Zod para verificação do conteudo.
 * Na estilização da aplicação foi escolhido o styled component devido a sua facilidade em sua sintaxe e por deixar o código mais clean e performatico possivel. 
 
 &nbsp;
